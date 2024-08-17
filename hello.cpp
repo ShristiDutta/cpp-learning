@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
-    cout << "First CPP Program" << endl;
+    cout << "First C++ Program" << endl;
+    cout << "😊" << endl;
     return 0;
 }
